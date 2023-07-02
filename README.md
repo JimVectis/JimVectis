@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello, nice to mee you! 👋
+### 🔭 I’m currently working on learning python and SQL
+### This is where is will display my best projects
 
+### Enjoy!!
 <!--
 **JimVectis/JimVectis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
