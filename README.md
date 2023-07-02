@@ -2,7 +2,14 @@
 ### 🔭 I’m currently working on learning python and SQL
 ### This is where is will display my best projects
 
+<picture>
+<srcset = https://github.com/JimVectis/pics/blob/main/cat%20in%20workspace.jpg>
+<img alt = "Picture of my cat preventing me doing anything useful">
+</picture>
+
 ### Enjoy!!
+
+
 <!--
 **JimVectis/JimVectis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
