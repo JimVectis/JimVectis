@@ -2,7 +2,7 @@
 ### 🔭 I’m currently working on learning python and SQL
 ### This is where is will display my best projects
 ### Enjoy!!
-### <picture> <src = "https://github.com/JimVectis/pics/blob/main/cat%20in%20workspace.jpg" img alt = "Picture of my cat preventing me doing anything useful"> </picture>
+### <picture> <src=https://github.com/JimVectis/pics/blob/main/cat%20in%20workspace.jpg img alt = "Picture of my cat preventing me doing anything useful"> </picture>
 
 
 
